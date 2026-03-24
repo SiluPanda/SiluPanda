@@ -10,8 +10,6 @@
 ![MCP](https://img.shields.io/badge/-MCP-5A29E4?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
-> Building the developer tooling layer for AI-native applications — from context graphs and agent orchestration to RAG primitives and prompt engineering.
-
 🔬 **[Meridex Research](https://www.meridexresearch.com/)** (closed source) – The operating system for AI-native investing.
 📊 **[MarketOnePager](https://www.marketonepager.com/)** (closed source) – Multi-agent market research platform.
 
