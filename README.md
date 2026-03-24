@@ -137,10 +137,6 @@
 - 🧬 **[codebase-ctx](https://github.com/SiluPanda/codebase-ctx)** – Generate AI-optimized codebase summaries via static analysis
 - 📦 **[npm-package-skill](https://github.com/SiluPanda/npm-package-skill)** – Claude Code skill that scaffolds production-grade npm packages
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/SiluPanda)
-
 ## What I'm Building
 
 - **AI developer infrastructure** – Modular, composable TypeScript libraries for every layer of the AI application stack
