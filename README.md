@@ -15,7 +15,7 @@
 🔬 **[Meridex Research](https://www.meridexresearch.com/)** (closed source) – The operating system for AI-native investing.
 📊 **[MarketOnePager](https://www.marketonepager.com/)** (closed source) – Multi-agent market research platform.
 
-## Featured Projects
+## Current Projects
 
 - 🧠 **[pith](https://github.com/SiluPanda/pith)** – AI-native task management for humans & agents. MCP-first, CLI-native, self-hosted.
 - ⚡ **[weav](https://github.com/SiluPanda/weav)** – In-memory context graph database written in Rust. Sub-10ms retrieval with vector search, temporal modeling, and token budgeting.
