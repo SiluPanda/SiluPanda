@@ -150,4 +150,4 @@
 
 ---
 
-> Ship fast, ship small, ship often — modular tools that compose into powerful systems.
+> Building the developer tooling layer for AI-native applications — from context graphs and agent orchestration to RAG primitives and prompt engineering.
