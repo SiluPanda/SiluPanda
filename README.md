@@ -10,6 +10,8 @@
 ![MCP](https://img.shields.io/badge/-MCP-5A29E4?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
+> Ship fast, ship small, ship often — modular tools that compose into powerful systems.
+
 🔬 **[Meridex Research](https://www.meridexresearch.com/)** (closed source) – The operating system for AI-native investing.
 📊 **[MarketOnePager](https://www.marketonepager.com/)** (closed source) – Multi-agent market research platform.
 
@@ -149,5 +151,3 @@
 [![Website](https://img.shields.io/badge/-silupanda.github.io-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://silupanda.github.io/)
 
 ---
-
-> Ship fast, ship small, ship often — modular tools that compose into powerful systems.
