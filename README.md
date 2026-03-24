@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-5A29E4?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-5A29E4?style=flat-square&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
 > Ship fast, ship small, ship often — modular tools that compose into powerful systems.
