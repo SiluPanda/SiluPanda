@@ -14,7 +14,6 @@
 
 > Ship fast, ship small, ship often — modular tools that compose into powerful systems.
 
-🔬 **[Meridex Research](https://www.meridexresearch.com/)** (closed source) – The operating system for AI-native investing.
 📊 **[MarketOnePager](https://www.marketonepager.com/)** (closed source) – Multi-agent market research platform.
 
 ## Current Projects
@@ -144,7 +143,7 @@
 - **AI developer infrastructure** – Modular, composable TypeScript libraries for every layer of the AI application stack
 - **Agent orchestration** – Tools to make multi-agent workflows reliable and observable
 - **Context engines** – From Rust-powered graph databases to smart chunking and retrieval primitives
-- **Side projects** – [Meridex Research](https://www.meridexresearch.com/) and [MarketOnePager](https://www.marketonepager.com/)
+- **Side projects** – [MarketOnePager](https://www.marketonepager.com/)
 
 ## Connect
 
