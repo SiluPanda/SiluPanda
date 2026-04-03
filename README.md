@@ -23,6 +23,7 @@
 - 🤖 **[sweteam](https://github.com/SiluPanda/sweteam)** – Orchestrates your coding agents, so you don't have to.
 - 🔁 **[ralph-py](https://github.com/SiluPanda/ralph-py)** – Minimal CLI for orchestrating Ralph loops across coding agents.
 - 🕷️ **[agent-crawl](https://github.com/SiluPanda/agent-crawl)** – High performance, lightweight and typesafe web crawler built for LLM agents.
+- 📐 **[awesome-system-design](https://github.com/SiluPanda/awesome-system-design)** – 30 production-grade system design documents for interview prep — from URL shorteners to AI inference platforms. Scale estimations, architecture diagrams, tradeoffs, and interview tips.
 
 ## All Projects
 
